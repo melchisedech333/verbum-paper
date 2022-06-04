@@ -1,4 +1,8 @@
 
+<b>Note: For better organization, the project has been moved to https://github.com/verbum-paper/verbum-paper</b>
+
+---
+
 <h2 align=center><b>Verbum Paper - Share the math!</b></h2>
 
 # <div align=center><img src="https://raw.githubusercontent.com/verbum-paper/verbum-paper/main/media/images/1.png" width="100%"></div>
