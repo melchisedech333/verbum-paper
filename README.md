@@ -25,6 +25,7 @@ You can also copy your math expressions to <b>Clipboard</b>. This way you can ea
 * [Exporting files](https://github.com/verbum-paper/verbum-paper#page_with_curl-exporting-files)
 * [Standard libraries and References](https://github.com/verbum-paper/verbum-paper#link-standard-libraries-and-references)
 * [Author](https://github.com/verbum-paper/verbum-paper#smiley-author)
+* [License](https://github.com/verbum-paper/verbum-paper#scroll-license)
 -----
 
 
@@ -348,5 +349,12 @@ YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw
 Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)
 
 <img src="https://github.com/melchisedech333.png?size=200" height="100" />
+
+
+:scroll: License
+---
+
+
+
 
 
